@@ -87,9 +87,6 @@ $wgCheckFileExtensions=false;
 #Do not check MIME file type (so that we can upload zip files)
 $wgVerifyMimeType=false;
 
-#Set Max Upload Size (100MB in bytes)
-$wgMaxUploadSize=104857600;
-
 
 # MySQL specific settings
 $wgDBprefix         = "";
