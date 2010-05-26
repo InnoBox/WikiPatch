@@ -11,10 +11,11 @@ def get_pw(filename):
 
 def main():
 	LSPATH = '/etc/mediawiki/LocalSettings.php'
-	PWPATH = '/etc/mediawiki/wiki_password.txt'
+	PWPATH = '/etc/mediawiki/providePassword.inc'
+	PHPPW = '<?php $wgDBpassword = "%s"; ?>'
 	pw = get_pw(LSPATH)
 	f = open(PWPATH,'w')
-	f.write(pw)
+	f.write(PHPPW % pw)
 	f.close()
 	# FIXME: Handle error conditions
 
