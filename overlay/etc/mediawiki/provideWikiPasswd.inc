@@ -3,5 +3,7 @@
 #Thats all.
 $lines=file('/etc/mediawiki/wiki_password.txt');
 $wgDBpassword= $lines[0];
+#echo "<br>In provideWikiPasswd.inc</br>";
+#echo $wgDBpassword
 ?>
-
+~                                    

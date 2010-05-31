@@ -80,7 +80,7 @@ $wgDBuser = "wiki_user";
 
 #Innobox Additions
 
-include("provideWikiPasswd.inc"); #InnoBox: this provides the password for wgDBpassword
+include 'provideWikiPasswd.inc'; #InnoBox: this provides the password for wgDBpassword
 #Don't check file extensions 
 $wgCheckFileExtensions=false;
 
