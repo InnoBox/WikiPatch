@@ -6,4 +6,3 @@ $wgDBpassword= $lines[0];
 #echo "<br>In provideWikiPasswd.inc</br>";
 #echo $wgDBpassword
 ?>
-~                                    
