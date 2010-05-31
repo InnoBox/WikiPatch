@@ -1,0 +1,12 @@
+#Updated hostname to request the name "wiki"
+
+auto lo
+iface lo inet loopback
+
+auto eth0
+iface eth0 inet dhcp
+        hostname wiki
+
+auto eth1
+iface eth1 inet dhcp
+
