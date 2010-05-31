@@ -6,5 +6,11 @@
 #    We first need to scrape the value of that password from the existing 
 #    LocalSettings files before we overwrite it.
 
-mv /etc/mediawiki/LocalSettings.php /etc/mediawiki/LocalSettings.php.turnkey
-mv /etc/mediawiki/LocalSettings.php.overlay /etc/mediawiki/LocalSettings.php
+TURNKEY_FILE="/etc/mediawiki/LocalSettings.php.turnkey"
+SETTINGS_FILE="/etc/mediawiki/LocalSettings.php"
+OVERLAY_FILE="/etc/mediawiki/LocalSettings.php.overlay"
+
+if [ ! -e $TURNKEY_FILE ]; then
+	mv $SETTINGS_FILE $TURNKEY_FILE
+fi
+mv $OVERLAY_FILE $SETTINGS_FILE
