@@ -1,0 +1,31 @@
+#!/usr/bin/env python
+#Install the content of the wiki that will be visible on fresh install
+# FAQ:
+# Q: Why on earth are we installing content this way? 
+# A: Believe it or not, this seems like the easiest way to load content in the wiki. 
+#    We already developed a system to save and restore the entire wiki. So we will just
+#    use that on first boot to install a default instance of content on the wiki.
+
+DB_FILE = "/path/to/database/file" #ANDY!@! DONT FORGET ABOUT THIS 
+
+
+def load_database(filename, password):
+        cmd = 'mysql -uwiki_user -p%s wiki_db < %s' % (password,filename)
+        from subprocess import Popen
+        p = Popen(cmd, shell=True)
+        p.communicate()
+        return p.returncode
+
+def get_password():
+        f = open('/etc/mediawiki/wiki_password.txt')
+        s = f.read()
+        f.close()
+        return s
+
+
+load_database(DB_FILE,get_password())
+
+
+
+
+
