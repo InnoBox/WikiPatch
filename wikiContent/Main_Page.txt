@@ -1,0 +1,15 @@
+Welcome to your new [http://www.innoboxdevices.com InnoBox Device]<br>
+This is MediaWiki, the same software behind [http://en.wikipedia.org Wikipedia].<br>
+Consult the [http://meta.wikimedia.org/wiki/Help:Contents MediaWiki User's Guide]
+for information on editing and administering this wiki.
+<br><br>
+== Getting started ==
+* [[Special:UserLogin| Login]] as administrator: (''username:'' '''admin''' ''password:'' '''innobox''') and [[Special:ChangePassword| change your password]].
+* As administrator,   [[MediaWiki:Sidebar| edit the sidebar]]
+* [http://en.wikipedia.org/wiki/Wikipedia%3ACHEATSHEET Editing Cheat Sheet] from Wikipedia.
+<br>
+
+== Server Maintenence ==
+*[{{SERVER}}/backupstatus Backup Status]
+*[{{SERVER}}/about.html Server Instructions]
+
