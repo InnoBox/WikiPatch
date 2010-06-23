@@ -5,11 +5,14 @@ for information on editing and administering this wiki.
 <br><br>
 == Getting started ==
 * [[Special:UserLogin| Login]] as administrator: (''username:'' '''admin''' ''password:'' '''innobox''') and [[Special:ChangePassword| change your password]].
-* As administrator,   [[MediaWiki:Sidebar| edit the sidebar]]
 * [http://en.wikipedia.org/wiki/Wikipedia%3ACHEATSHEET Editing Cheat Sheet] from Wikipedia.
+<br>
+== Customization ==
+When logged in as administrator
+* [[Special:Configure| Customize the site name and logo]]
+* [[MediaWiki:Sidebar| Edit the sidebar]]
 <br>
 
 == Server Maintenence ==
 *[{{SERVER}}/backupstatus Backup Status]
 *[{{SERVER}}/about.html Server Instructions]
-
