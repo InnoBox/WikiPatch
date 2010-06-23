@@ -85,7 +85,7 @@ include 'provideWikiPasswd.inc'; #InnoBox: this provides the password for wgDBpa
 $wgCheckFileExtensions=false;
 
 #Set Favicon
-$wgFavicon = "$wgScriptPath/images/favicon.ico"
+$wgFavicon = "$wgScriptPath/images/favicon.ico";
 
 #Do not check MIME file type (so that we can upload zip files)
 $wgVerifyMimeType=false;
