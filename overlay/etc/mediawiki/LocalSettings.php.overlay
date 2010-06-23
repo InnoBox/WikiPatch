@@ -39,7 +39,7 @@ if ( $wgCommandLineMode ) {
 		die( "This script must be run from the command line\n" );
 	}
 }
-$wgSitename         = "Innobox Wiki";
+$wgSitename         = "InnoBox Wiki";
 
 ## The URL base path to the directory containing the wiki;
 ## defaults for all runtime URL paths are based off of this.
@@ -164,3 +164,13 @@ if (is_file("/etc/mediawiki/extensions.php")) {
 # When you make changes to this configuration file, this will make
 # sure that cached pages are cleared.
 $wgCacheEpoch = max( $wgCacheEpoch, gmdate( 'YmdHis', @filemtime( __FILE__ ) ) );
+
+#Innobox Out-of-the-box permissions
+#Anonymous users get read-only access
+$wgGroupPermissions['*']['edit']=false;
+$wgGroupPermissions['*']['createpage']=false;
+$wgGroupPermissions['*']['createtalk']=false;
+
+##Add Configure Extension
+require_once( "$IP/extensions/Configure/Configure.php" );
+efConfigureSetup();
