@@ -1,0 +1,3 @@
+/usr/share/mediawiki root directory of the mediawiki server
+/usr/share/mediawiki/extensions mediawiki extensions directory
+/usr/share/mediawki/LocalSettings.php  localSettings
