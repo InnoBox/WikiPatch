@@ -1,0 +1,75 @@
+{|  cellpadding="4" border="1" style="border: 1px solid rgb(170, 170, 170); border-collapse:collapse;margin: 1em 1em 1em 0pt; width: 600px;"
+|-
+| align="center" style="background-color: rgb(171, 231, 232); " | '''Resources'''
+| align="center" style="background-color: rgb(193, 190, 255); " | '''Protocols'''
+| align="center" style="background-color: rgb(171, 231, 232); " | '''Forms'''
+|-
+| valign="top" | 
+*[[Mission Statement]] 
+*[[IT]] 
+*[[Building Management]] 
+*[[Customer Database]] 
+
+<br>
+
+| valign="top" | 
+*[[Connecting to the Printer]] 
+*[[Ordering Business cards]] 
+*[[Requesting VPN Access]] 
+*[[Connecting to the Backup Server]] 
+
+<br>
+
+
+| valign="top" | 
+*[[Travel Reimbursement Form]] 
+*[[Computer Request Form]] 
+*[[Timesheets]] 
+
+<br>
+
+
+|-
+| align="center" style="background-color: rgb(193, 190, 255);" | '''Events'''
+| align="center" style="background-color: rgb(171, 231, 232);" | '''How-To's'''
+| align="center" style="background-color: rgb(193, 190, 255);" | '''Projects'''
+|-
+| valign="top" | 
+*[http://calendar.google.com Google Calendar]
+*Annual retreat is May 7th!
+
+
+<br>
+
+| valign="top" | 
+*[[Make A Sales Pitch]]
+*[[New Employee Material]] 
+*[[Navigating HR]] 
+*[[Knowledge Base]]
+<br>
+
+| valign="top" | 
+
+*[[Earnings re-assessment]]
+*[[Pro Bono Work]] 
+*[[Charity matching program]] 
+*[[Knowledge Base]]
+<br> <br>
+
+|}
+<div style="border: 1px solid rgb(255, 204, 0);  padding: .7em; margin-right:3em; margin-bottom:2em; background-color: rgb(255, 255, 204); float: left;"><center>'''[[Special:Listusers|Group Members]]'''</center> 
+*[[User:Alice|Alice]] - [[AliceProjects|projects]] - [[User talk:Alice|talk]] - [{{fullurl:Special:Contributions|contribs=user&amp;amp;target=Alice}} edits] 
+*[[User:Bob|Bob]] - [[BobProjects|projects]] - [[User talk:Bob|talk]] - [{{fullurl:Special:Contributions|contribs=user&amp;amp;target}} edits] 
+*[[User:Carrol|Carrol]] - [[CarrolProjects|projects]] - [[User talk:Carrol|talk]] - [{{fullurl:Special:Contributions|contribs=user&amp;amp;target=Carrol}} edits] 
+*[[User:Eve|Eve]] - [[EveProjects|projects]] - [[User talk:Eve|talk]] - [{{fullurl:Special:Contributions|contribs=user&amp;amp;target=Eve}} edits] 
+*[[User:Mallory|Mallory]] - [[MalloryProjects|projects]] - [[User talk:Mallory|talk]] - [{{fullurl:Special:Contributions|contribs=user&amp;amp;target=Mallory}} edits] 
+
+</div> 
+
+'''Additional Info'''
+
+*Your Institution's Name 
+*Address: 1600 Cherry Tree Lane, Beverly Hills CA 90210 
+*Building Manager: Alice Waters (432) 324-1345
+*[mailto:waters@yourinstitution.com waters@yourinstitution.com]
+
