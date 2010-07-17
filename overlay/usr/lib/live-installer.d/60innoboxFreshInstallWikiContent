@@ -6,7 +6,7 @@
 #    We already developed a system to save and restore the entire wiki. So we will just
 #    use that on first boot to install a default instance of content on the wiki.
 
-DB_FILE = "/path/to/database/file" #ANDY!@! DONT FORGET ABOUT THIS 
+DB_FILE = "/usr/share/innobox-wiki/defaultWikiContent.sql" 
 
 
 def load_database(filename, password):
@@ -24,7 +24,7 @@ def get_password():
 
 
 load_database(DB_FILE,get_password())
-
+print "Installing fresh Innobox Wiki contents into the mySQL databse..."
 
 
 
