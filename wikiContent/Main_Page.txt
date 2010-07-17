@@ -6,6 +6,7 @@ for information on editing and administering this wiki.
 == Getting started ==
 * [[Special:UserLogin| Login]] as administrator: (''username:'' '''admin''' ''password:'' '''innobox''') and [[Special:ChangePassword| change your password]].
 * [http://en.wikipedia.org/wiki/Wikipedia%3ACHEATSHEET Editing Cheat Sheet] from Wikipedia.
+* See an [[Example Front Page]]
 <br>
 == Customization ==
 When logged in as administrator
@@ -14,5 +15,5 @@ When logged in as administrator
 <br>
 
 == Server Maintenence ==
-*[{{SERVER}}/backupstatus Backup Status]
+*[{{SERVER}}/backup Backup Status]
 *[{{SERVER}}/about.html Server Instructions]
