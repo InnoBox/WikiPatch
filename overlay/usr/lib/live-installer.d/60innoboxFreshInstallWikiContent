@@ -22,9 +22,9 @@ def get_password():
         f.close()
         return s
 
-
-load_database(DB_FILE,get_password())
 print "Installing fresh Innobox Wiki contents into the mySQL databse..."
+load_database(DB_FILE,get_password())
+
 
 
 
