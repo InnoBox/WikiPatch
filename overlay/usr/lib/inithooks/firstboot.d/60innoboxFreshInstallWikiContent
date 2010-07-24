@@ -8,13 +8,14 @@
 
 DB_FILE = "/usr/share/innobox-wiki/defaultWikiContent.sql" 
 
-
-def load_database(filename, password):
-        cmd = 'mysql -uwiki_user -p%s wiki_db < %s' % (password,filename)
+def _run(cmd):
         from subprocess import Popen
         p = Popen(cmd, shell=True)
         p.communicate()
         return p.returncode
+
+def load_database(filename, password):
+        return _run('mysql -uwiki_user -p%s wiki_db < %s' % (password,filename))
 
 def get_password():
         f = open('/etc/mediawiki/wiki_password.txt')
@@ -22,10 +23,7 @@ def get_password():
         f.close()
         return s
 
+_run('/etc/init.d/mysql start')
 print "Installing fresh Innobox Wiki contents into the mySQL databse..."
 load_database(DB_FILE,get_password())
-
-
-
-
-
+_run('/etc/init.d/mysql stop')
