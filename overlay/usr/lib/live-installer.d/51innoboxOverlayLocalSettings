@@ -14,3 +14,6 @@ if [ ! -e $TURNKEY_FILE ]; then
 	mv $SETTINGS_FILE $TURNKEY_FILE
 fi
 mv $OVERLAY_FILE $SETTINGS_FILE
+
+echo "Make $SETTINGS_FILE writeable by apache."
+chown www-data $SETTINGS_FILE
