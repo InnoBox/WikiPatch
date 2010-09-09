@@ -1,2 +1,0 @@
-#!/bin/sh
-echo "inithooks/firstboot.d/20live-installer has been disabled (replaced by this null script) to simplify system dynamics"

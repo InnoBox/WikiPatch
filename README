@@ -1,0 +1,4 @@
+This is an update to the wikipatch to now accomodate TurnkeyLinux Core 10 Lucid. 
+
+The core does not have any LAMP stack at all, so we need to instally PHP, MySQL and mediawiki. 
+
