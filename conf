@@ -4,3 +4,7 @@ echo "Making /usr/share/mediawiki/serialized for Wiki Configure extension."
 mkdir /usr/share/mediawiki/serialized
 echo "Making /usr/share/mediawiki/serialized accessable to apache."
 chown -R www-data /usr/share/mediawiki/serialized
+
+echo "Make LocalSettings.php editable by apache."
+chown www-data /etc/mediawiki/LocalSettings.php
+
