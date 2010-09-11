@@ -36,9 +36,8 @@ def get_password():
         f.close()
         return s
 
-_run('/etc/init.d/mysql start')
+_run('service mysql start')
 print "Installing fresh Innobox Wiki contents into the mySQL databse..."
 pw = get_password()
 prepare_wiki_user(pw)
 load_database(DB_FILE,pw)
-_run('/etc/init.d/mysql stop')
