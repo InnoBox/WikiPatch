@@ -6,6 +6,7 @@
 #    We already developed a system to save and restore the entire wiki. So we will just
 #    use that on first boot to install a default instance of content on the wiki.
 
+PREP_FILE = "/usr/share/innobox-wiki/prepareWikiUser.sql" 
 DB_FILE = "/usr/share/innobox-wiki/defaultWikiContent.sql" 
 
 def _run(cmd):
@@ -13,6 +14,16 @@ def _run(cmd):
         p = Popen(cmd, shell=True)
         p.communicate()
         return p.returncode
+
+def prepare_wiki_user(password):
+	f = open(PREP_FILE,'r')
+	s = f.read() % {'WIKI_PASSWORD': password}
+	f.close()
+	from subprocess import Popen, PIPE
+	p = Popen(['mysql','-uroot'], stdin=PIPE)
+	p.stdin.write(s)
+	p.communicate()
+	return p.returncode
 
 def load_database(filename, password):
         return _run('mysql -uwiki_user -p%s wiki_db < %s' % (password,filename))
@@ -27,5 +38,7 @@ def get_password():
 
 _run('/etc/init.d/mysql start')
 print "Installing fresh Innobox Wiki contents into the mySQL databse..."
-load_database(DB_FILE,get_password())
+pw = get_password()
+prepare_wiki_user(pw)
+load_database(DB_FILE,pw)
 _run('/etc/init.d/mysql stop')
