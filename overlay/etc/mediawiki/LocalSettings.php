@@ -45,7 +45,9 @@ $wgSitename         = "InnoBox Wiki";
 ## defaults for all runtime URL paths are based off of this.
 ## For more information on customizing the URLs please see:
 ## http://www.mediawiki.org/wiki/Manual:Short_URL
-$wgScriptPath       = "";
+# Note that wgScriptPath must agree with the Alias used in
+# /etc/mediawiki/apache.conf
+$wgScriptPath       = "/wiki";
 $wgScriptExtension  = ".php";
 
 ## recommended logo size: 135x135px
