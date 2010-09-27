@@ -8,3 +8,13 @@ chown -R www-data /usr/share/mediawiki/serialized
 echo "Make LocalSettings.php editable by apache."
 chown www-data /etc/mediawiki/LocalSettings.php
 
+echo "Begin enablng mediawiki extensions"
+
+mwenext CategoryTree.php
+mwenext Cite.php
+mwenext Footnote.php
+mwenext NewestPages.php
+mwenext ParserFunctions.php
+mwenext SpecialRenameuser.php
+mwenext SyntaxHighlight_GeSHi.php
+mwenext poem.php
