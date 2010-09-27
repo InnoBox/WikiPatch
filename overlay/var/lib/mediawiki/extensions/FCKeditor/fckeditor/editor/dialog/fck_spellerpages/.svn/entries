@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/dialog/fck_spellerpages"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   name="spellerpages"
+   kind="dir"/>
+</wc-entries>

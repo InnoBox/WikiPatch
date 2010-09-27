@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/plugins"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   name="placeholder"
+   kind="dir"/>
+<entry
+   name="autogrow"
+   kind="dir"/>
+<entry
+   name="dragresizetable"
+   kind="dir"/>
+<entry
+   name="tablecommands"
+   kind="dir"/>
+<entry
+   name="simplecommands"
+   kind="dir"/>
+<entry
+   name="bbcode"
+   kind="dir"/>
+</wc-entries>

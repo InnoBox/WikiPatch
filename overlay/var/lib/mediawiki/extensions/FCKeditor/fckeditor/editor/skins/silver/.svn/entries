@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/skins/silver"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="fck_dialog_ie6.js"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="a304f23426b810a7cb39e244dda4ad4b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck_editor.css"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="9ba3e1f2df4a3e8c11cdd20ba5f9c9bc"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="2911"
+   name="fck_strip.gif"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2009-01-15T15:47:20.571677Z"
+   checksum="588708c9bde99995428a3066cfe315c9"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck_dialog.css"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="82d6418b8fc02c869ad15ed12e4141b4"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+</wc-entries>

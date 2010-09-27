@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="72699"
+   name=""
+   committed-date="2010-09-10T01:44:39.965091Z"
+   url="http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/FCKeditor"
+   last-author="bawolff"
+   kind="dir"
+   uuid="dd0e9695-b195-4be7-bd10-2dea1a65a6b6"
+   prop-time="2010-09-27T21:58:25.000000Z"
+   revision="73827"/>
+<entry
+   committed-rev="51207"
+   name="FCKeditor.popup.html"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="fece1177cdeac797168cc2f6113ca3e9"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="68306"
+   name="FCKeditorEditPage.body.php"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2010-06-20T10:51:25.479446Z"
+   checksum="e335259ff64bde064316a0000e07a43b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="62858"
+   name="FCKeditor.php"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2010-02-22T23:41:51.708198Z"
+   checksum="512142c9b910d0bae383434b76549e22"
+   last-author="siebrand"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   name="plugins"
+   kind="dir"/>
+<entry
+   committed-rev="67898"
+   name="FCKeditorSkin.body.php"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2010-06-12T14:04:34.924538Z"
+   checksum="03894bbfd803f3f696967e50dbebdf9a"
+   last-author="conrad"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="50709"
+   name="FCKeditorSajax.body.php"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-05-18T00:23:59.485267Z"
+   checksum="a43f63cfb64f6547beb22b572d643d0b"
+   last-author="simetrical"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="50666"
+   name="FCKeditorParserOptions.body.php"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-05-16T19:08:30.887708Z"
+   checksum="cb536c06bdbfbcb2a2471612169daf39"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="67898"
+   name="FCKeditorParser.body.php"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2010-06-12T14:04:34.924538Z"
+   checksum="26cf138a414bee01df8d1c2c3aa84f17"
+   last-author="conrad"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="67898"
+   name="FCKeditorParserWrapper.body.php"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2010-06-12T14:04:34.924538Z"
+   checksum="caaca986b679abde71e9592ec58e196a"
+   last-author="conrad"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="50669"
+   name="fckeditor_config.js"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-05-16T19:56:25.766518Z"
+   checksum="4cf5e4efa9e2aedfb6eef86347d6eac6"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="50669"
+   name="README.txt"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-05-16T19:56:25.766518Z"
+   checksum="d77841b3b093478bb9a313de4968b2ad"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="72699"
+   name="FCKeditor.body.php"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2010-09-10T01:44:39.965091Z"
+   checksum="0ac042be3b5ceefce48bb53841e44fad"
+   last-author="bawolff"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="70201"
+   name="FCKeditor.i18n.php"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2010-07-30T19:14:22.917875Z"
+   checksum="ed3b88b52a29e4e4db62d2a900f99928"
+   last-author="raymond"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/filemanager/connectors/aspx"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="config.ascx"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b73322a11506ce0f1ed4b2c552908145"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="connector.aspx"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="8b3246924da53187d4ad8e309271dec0"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="upload.aspx"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="842e42bee03a3f387bbdf5f8109abc39"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+</wc-entries>

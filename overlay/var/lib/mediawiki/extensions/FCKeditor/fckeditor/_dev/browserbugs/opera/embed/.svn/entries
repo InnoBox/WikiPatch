@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="250"
+   name=""
+   committed-date="2007-04-15T20:48:06.291727Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_dev/browserbugs/opera/embed"
+   last-author="alfonsoml"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="250"
+   name="embed.html"
+   text-time="2010-09-27T21:58:42.000000Z"
+   committed-date="2007-04-15T20:48:06.291727Z"
+   checksum="6855a8e369def088fd67e8b3c834348b"
+   last-author="alfonsoml"
+   kind="file"
+   prop-time="2010-09-27T21:58:42.000000Z"/>
+<entry
+   committed-rev="250"
+   name="flash.swf"
+   text-time="2010-09-27T21:58:42.000000Z"
+   committed-date="2007-04-15T20:48:06.291727Z"
+   checksum="0691936d90948731beb7a6f38eb1b851"
+   last-author="alfonsoml"
+   kind="file"
+   prop-time="2010-09-27T21:58:42.000000Z"/>
+</wc-entries>

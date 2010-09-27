@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/dialog/fck_spellerpages/spellerpages/server-scripts"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="1189"
+   name="spellchecker.cfm"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2007-12-11T03:18:54.526777Z"
+   checksum="9b6ca70de896c558fe36bd878d2e6ed9"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="spellchecker.php"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="7924f50e876cff3c5166910022ea7e83"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="spellchecker.pl"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="aecc22bef2d6580e1655a2218cb21053"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+</wc-entries>

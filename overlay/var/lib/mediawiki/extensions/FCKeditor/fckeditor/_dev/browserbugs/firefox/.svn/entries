@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2911"
+   name=""
+   committed-date="2009-01-15T15:47:20.571677Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_dev/browserbugs/firefox"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="16"
+   name="iframe_onblur_innerpage.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="817846f2eb9145423190dc67df6efb40"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="16"
+   name="designmode.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="574ed5f4dcba6ce2cae98d5b6caebee1"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="132"
+   name="baseruntime.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="3e2c1a8c69b226a784be8939239206ff"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="132"
+   name="docwrite.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="7638cf90f7dbd607120348c40538edf4"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="16"
+   name="brokenimage.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="d303ace8e813d0bf783affd50051d69a"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="16"
+   name="nodecoration.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="9bb5be667f0b2b551b91e941b954c42d"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="16"
+   name="iframe_onblur.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="a27e4dbf7d1a0a40d3d92f8ed18733bb"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="16"
+   name="fontface.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="abbe77ed09c3c9cd8e51264eebc2fc5c"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="16"
+   name="geckohistorybug1.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="1a73eeb980c40dc2e9b5393c1a0e6153"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="132"
+   name="geckohistorybug2.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="2200529f8c1ec50c23bfbf5e1020bfdf"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="16"
+   name="iframe_onblur_innerpage2.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="0bde5ce9e9e22c51db0676a44f8bca22"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="282"
+   name="unlink.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2007-05-04T18:15:09.942286Z"
+   checksum="1834ba621c70bf2728ee91bc8ae3a2b1"
+   last-author="alfonsoml"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="16"
+   name="docwrite2.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="eafa152f6822e066c004417538e9f10c"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="2911"
+   name="contenteditable.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2009-01-15T15:47:20.571677Z"
+   checksum="772175502c3bafed50d9a9e79381d60a"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="16"
+   name="deleteimage.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="28083fff6e35ee4786f84385e78bc913"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="iframe_table_rendering.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="8112331d9a98eb1b74512dbeadf64cf6"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="132"
+   name="deletetable.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="a6d3c47ea5ea0c2bc238e00aac818b35"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="16"
+   name="stylemove.htm"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="e570f3d1f4d8872afe924635a8365164"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+</wc-entries>

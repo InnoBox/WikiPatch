@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/automated/_jsunit/bin/mac"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="48"
+   name="stop-safari.scpt"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="ea18a8c31266502001bfa17459ff8118"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="stop-safari.sh"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="b76699194624809fc10476ad5a2ea419"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="start-firefox.scpt"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="4a3bf0f064ccd4ac705cbe0b1a21a930"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="start-firefox.sh"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="0ffb872678049bb0d08f68a085f5082a"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="48"
+   name="start-safari.scpt"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="9de51d04c3d5ed31466b83dfa9dab80c"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="start-safari.sh"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="d1ef5815c20d03cb3ea6447f4e028a71"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="readme.txt"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="41f92ead34f86682d76d30ee8da3ea75"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="48"
+   name="stop-firefox.scpt"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="0d0ea992b7fd45449bedc7f321ec11b2"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="stop-firefox.sh"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="91f02a025a934b230deec64ab89e5b6c"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/dtd"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="1825"
+   name="fck_dtd_test.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2008-03-27T22:25:00.554717Z"
+   checksum="93fa2b16695ae0f56639a051b9616f0e"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck_xhtml10transitional.js"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="dd55e669419ae1daf2480526560cbc83"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck_xhtml10strict.js"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="485d06f82beca7db1990b5fb163dfc1b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+</wc-entries>

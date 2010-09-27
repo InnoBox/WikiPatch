@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2006-11-29T13:14:22.390515Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/images/smiley/msn"
+   last-author="FredCK"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="3"
+   name="omg_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="81390baeb7e4299286721c07eb5bd74e"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="lightbulb.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="e2552eba6c6d9b7bec8131521b611902"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="envelope.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="da9a98c4b0c3b379e756025daac4818e"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="angel_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="7133019b554c46740d5a0d6c143a01c0"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cry_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="ad1c91cc429f3fe2874eed1d81ca110a"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="thumbs_down.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="65c430f69a5b766a58fe940bd90575ff"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="regular_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="92428b2166257663aa7369fe8a7219af"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="tounge_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="73ff8aee8bede562b0bf18b8786fecbe"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="devil_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="10bd9076f5c2efe1c17a82e8d1e9a7e4"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="confused_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="4bc9aff163e0749a6c9942dcb141382a"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="shades_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="abcb733c422a76308f5c7e1472475b34"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="sad_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="98c1a52fc0cc02bdc5a39dce35d0b7cf"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="whatchutalkingabout_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="d74e9ebb7ceeb117814aab7000faf489"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="wink_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="2acb3656cf7889187530b7455beca2c9"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="teeth_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="863f7febfce32095dbfc78bb36750879"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="heart.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="be324251e9c589abbaeedd01dbcd0ded"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="embaressed_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="529ed047bf5a3515e7f0a536f42e44c7"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cake.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="18c62fda1474df74b22ed91b1d59c74b"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="broken_heart.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="e5a5f3486fa43a329672e62777055a01"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="thumbs_up.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="e2f519224f02cf489642e3d557262f35"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="kiss.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="2ef7fffad10faf28213d51e41db69c2f"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="angry_smile.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="d160df50ef3f3e126f02a360f2d26181"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+</wc-entries>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_testcases"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="001.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="91f03ea463305f59c9511d9b20494e58"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="010.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="47959124bd94de0b89f073ec1ead6ec8"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="002.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="3c1e39c4fcd0649bbcca31551d2fbcff"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="003.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b067c71c44227cf8f23444e58e657bdb"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="testcases.css"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="1bce35b20ef6833fd834db26fa894c72"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="004.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="63868ffc83186ee603983d77b33ff8d7"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="005.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="37af8462fb98fd6a73708c1b30459393"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="006.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="2ab94cde7f73a2a34fb3c1b7e2e04abd"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="007.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f2ba0f7fe571800ea46ebce4971dc965"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="008.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="45981bce863c1d2d625da1ce844a5367"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="009.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="965569acac5dfaaf51c6364fb1a6ed60"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sampleposteddata.asp"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="fe68b84eee2c403d86e08437ced8d2b2"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+</wc-entries>

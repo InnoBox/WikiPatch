@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1398"
+   name=""
+   committed-date="2008-01-24T03:47:11.995125Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/skins/office2003/images"
+   last-author="martinkou"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="3"
+   name="toolbar.start.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="f3e99f7d83de836d70a183d0394edd18"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.expand.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="dad1ef65b8998a5610feb19d10862259"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.separator.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="25baafec2ab13e6c7b9010a9e6ea37a4"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.collapse.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="e036c8aee66cfe0fd937c2795da7c5a9"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="1398"
+   name="dialog.sides.png"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2008-01-24T03:47:11.995125Z"
+   checksum="a63a44f3d2225b97b50cd3ffeed69615"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="1398"
+   name="dialog.sides.rtl.png"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2008-01-24T03:47:11.995125Z"
+   checksum="a9a6b9178ede70bfb7995d62eeb3e2b3"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="1398"
+   name="dialog.sides.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2008-01-24T03:47:11.995125Z"
+   checksum="4d8a069405d14f7b452a2ee955acf58f"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.buttonarrow.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="f6b2fd6b57149cb40c68e95ba5eee9a5"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="121"
+   name="toolbar.end.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2007-01-26T15:16:41.523113Z"
+   checksum="e4d00c2d7305ea76334d519706f3d901"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="1398"
+   name="sprites.png"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2008-01-24T03:47:11.995125Z"
+   checksum="9d36bbce5f094e0d3c0d51b356544e3d"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="1398"
+   name="sprites.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2008-01-24T03:47:11.995125Z"
+   checksum="89d186bd0d9dec99a3f3d04a28efcc44"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.arrowright.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="cfa64a53737d552242fb39576da6856d"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.bg.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="dcd7119a5634c5abeb0f53c40ecc8b87"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+</wc-entries>

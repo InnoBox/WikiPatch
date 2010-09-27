@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_dev/browserbugs/safari/iframepath/iframe"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="367"
+   name="test.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2007-06-11T20:40:48.434478Z"
+   checksum="d731ecb5d33bc5c306d6c1142d99d7be"
+   last-author="alfonsoml"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="367"
+   name="smiley.gif"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2007-06-11T20:40:48.434478Z"
+   checksum="39ee83ac9e749d8f6caaa2c5557b6d6d"
+   last-author="alfonsoml"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="styles.css"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="14bcf085ed08e0bd0ffd6a285366aff8"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+</wc-entries>

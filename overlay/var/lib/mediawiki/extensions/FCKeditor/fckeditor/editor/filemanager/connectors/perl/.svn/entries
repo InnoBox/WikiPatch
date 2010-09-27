@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/filemanager/connectors/perl"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="config.pl"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="de57c08705be6d688999a579654db887"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="io.pl"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7dded3bf0e00713c72715f9551f71f9f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="upload_fck.pl"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7144903fe61989bee3105e648366e897"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="basexml.pl"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="3c8f4fe82da0287d6806455677ce1b7e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="upload.cgi"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="dd151c0e1be8176a2763f6dab28a06cd"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="util.pl"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="38072251f54aa71131d4a251e7747021"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="commands.pl"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="cc50358a592606d28b49caf6285502dc"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="connector.cgi"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="ad53c5f5a345913b9ebe77f2e6986318"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+</wc-entries>

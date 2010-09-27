@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/filemanager/browser/default"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="frmresourcetype.html"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="35ae67f756908d5ef49a5a6db96080f3"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:34.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="browser.html"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="4475ac7953c9e9e222a679f322e02253"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:35.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="frmfolders.html"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="251239dd3e622b2a73132a205c63037b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:35.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="frmcreatefolder.html"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="073d10e633965fbcaedc318097785863"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:35.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="browser.css"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="328d904e67f8f1c261cffda257b7058a"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:35.000000Z"/>
+<entry
+   name="js"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="frmupload.html"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f8d195ca924fec41807febf4cb0d1841"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:35.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="frmactualfolder.html"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="457ebdec01c95862e3feade2774067da"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:35.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="frmresourceslist.html"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="2dd2515a7a4520d04e8f2f94b34b711f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:35.000000Z"/>
+</wc-entries>

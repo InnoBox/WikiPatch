@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="50301"
+   name=""
+   committed-date="2009-05-07T07:40:57.398886Z"
+   url="http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/FCKeditor/plugins/mediawiki_localfilelink"
+   last-author="werdna"
+   kind="dir"
+   uuid="dd0e9695-b195-4be7-bd10-2dea1a65a6b6"
+   revision="73827"/>
+<entry
+   committed-rev="32924"
+   name="link_dialog.html"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2008-04-07T16:04:04.643414Z"
+   checksum="2bea14e462ea82947f9ce2b4eac29937"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="32917"
+   name="fckplugin.js"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2008-04-07T13:06:51.197458Z"
+   checksum="fac95886ec38938850fcca4264d10278"
+   last-author="werdna"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+</wc-entries>

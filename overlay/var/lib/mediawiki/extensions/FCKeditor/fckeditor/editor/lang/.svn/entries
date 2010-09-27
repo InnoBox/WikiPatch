@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/lang"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="fo.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="0604c9f7300fbe9d837c27f5aa3c4460"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="bs.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5ac5456bb38ca31d1d7cd6033d3b2f07"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="cs.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="1705a309c88ab4f5b5bd19e9906c5250"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="en-au.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="c9e230156f492f052f9f10621dc0b62d"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="es.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="9c945aa852e2ffb5355e7b0c7280af75"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="km.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="58b171f18096380baae89e8e5d71a63a"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="eu.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="51cb1b91b8b53a495781880d432cd99b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="ko.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5d9eebe59df5b228b1a6823ba6fe945c"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="is.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="da5bfc6bfb90233848e50d4ed9e16335"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="gu.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="37c7d8dbe977e5677da693de58062fad"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="hu.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5304f29202dc15c2e9d220f4fae4f531"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="no.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="12d03b4693ffa4cb272eeefc79dd49f3"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sk.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="70caddbc9328a9f7c3f7c02829f2745a"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="vi.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="efe7066dfe109cc612b2de809c1d9769"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="ms.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="70bd51f98f3c0d2eae5d2428b1b46dbc"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="en-uk.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="245e0e39f83aab47109179952050f136"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="uk.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="236a022c6a0212303900e07ccad69195"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="zh-cn.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="ca2851a4fe33d41f0238bc215ded3789"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="ro.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="a8a564bb5bbebe4c99be01b8818d66f5"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="pt-br.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d80c36047838315b8054e40d6343603d"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="af.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="33f48678d1a9a11ef249fe34599425bf"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="ru.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="bf40cdcaad7d4fc42c133f433c4c3109"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fr-ca.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="836157a8826ca550a98ea900a4848fc4"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="bn.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="29a6c128b31d60e2329e4a3ca51e38da"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="nb.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="94e822eb363b112b8b42618d64239560"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="el.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="56f3b58273f126e508327a0d3f6932b4"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="gl.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="48ef0d060ec4fa9dd7006b0be39392c3"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="ar.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="10d00c89913c7c220423f08c9d6265a8"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="en.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="a42a2428e7e614b93f4ce977ca957a04"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="_translationstatus.txt"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7c1e508f007df89a9a445148e734b8ef"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fr.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="4eac0afd57c0af63aae178d3b184c253"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="et.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f0efbb6b7f41f3da1c9fb0f310553fea"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="hr.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="86183d78646fad59c26fc3473fddcc1b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="nl.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5e75dc75d1ad8f99fdfda15ef109f61d"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="mn.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="af235bdfb60573e422789fcc6399cdba"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="pl.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b6aea86e8c8f84ece997eb73af6b3c89"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="th.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d1a99a0da68fcde0024899b1fab32303"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="it.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="71a61a9c8eb30bad51d278cd6aa70945"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sl.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7d0bbbca4ce75372ec64c591675f7a81"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="lt.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="533eb4f9b7a56c82538e62e9a8e863a9"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:30.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sr-latn.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5208f8f579dcf9e02d46b72cd1a23f8b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="lv.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d9e6f26f8ae35831655a2921dd9b4bca"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="zh.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="4989d393d388796b533be27795d0dfce"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="ca.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f1f9d76ca8d72e5d05750082effdd09c"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="en-ca.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="02329535cc3ae579767994ed95511a7b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="pt.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="e8cc701121e2f08c5296050c5f2e9ec9"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="da.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="9569515a18a550f69332451195276da2"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sr.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b5f23d24d5de27d6cd17401b81514c9d"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="tr.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d8c78f1e3fbaa4865e7076cc56fdb302"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fa.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="74ed783f42a04b45eb943f09441e8b32"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="bg.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="8df3c2dc383e3cd1ff5c1908d13c38af"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="de.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="3b11e8b3de0928d2d3920e6ceea41d96"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sv.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5970fc91184027ca0ace2205bc8af0c8"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="ja.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="9b294f95c19aeac8ca80b0576e626e17"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="he.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="e3f92b18c79733bfe5ece400b79c396c"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fi.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d7503042beb14989ea2e8553bb1b8c0a"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="hi.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7eb5b2f4687e6f1e91acfb6c4b1893cf"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="eo.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="fb69b64665b8400e5bb45adb534704d8"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+</wc-entries>

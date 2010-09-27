@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="59758"
+   name=""
+   committed-date="2009-12-05T15:03:20.329334Z"
+   url="http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/FCKeditor/plugins"
+   last-author="maxsem"
+   kind="dir"
+   uuid="dd0e9695-b195-4be7-bd10-2dea1a65a6b6"
+   revision="73827"/>
+<entry
+   name="mediawiki"
+   kind="dir"/>
+<entry
+   name="mediawiki_localfilelink"
+   kind="dir"/>
+</wc-entries>

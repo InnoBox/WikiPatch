@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="59758"
+   name=""
+   committed-date="2009-12-05T15:03:20.329334Z"
+   url="http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/FCKeditor/plugins/mediawiki/dialogs"
+   last-author="maxsem"
+   kind="dir"
+   uuid="dd0e9695-b195-4be7-bd10-2dea1a65a6b6"
+   revision="73827"/>
+<entry
+   committed-rev="50666"
+   name="ref.html"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-16T19:08:30.887708Z"
+   checksum="ecb7164485a54587f04aa4f8194beec2"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="51207"
+   name="category.html"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="7986753b0a3a8ccc859c6101d09f3cef"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="50666"
+   name="link.html"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-16T19:08:30.887708Z"
+   checksum="0ea083a2dd6d63575d002e7c46a4c17d"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="51207"
+   name="source.html"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="0267f4464ae77ec1f425fac3311872db"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="59758"
+   name="special.html"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-12-05T15:03:20.329334Z"
+   checksum="0a3335e4efaa0ca6861cb372633c2784"
+   last-author="maxsem"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="50666"
+   name="image.html"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-16T19:08:30.887708Z"
+   checksum="0502aaf20d6d91cd85721de8000850bb"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="50666"
+   name="math.html"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-16T19:08:30.887708Z"
+   checksum="fee3e326b68a192c19712e7119084c22"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="50666"
+   name="template.html"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-16T19:08:30.887708Z"
+   checksum="b2dd69368f1878cdcced9942686c1831"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+</wc-entries>

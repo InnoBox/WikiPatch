@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/manual/fckpanel/test1"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="1564"
+   name="test.css"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="86898a53dd272a4618c795f25cdac053"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="innerpage.html"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="83cc511bda275288ea878a12c1fe7664"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+</wc-entries>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4268"
+   name=""
+   committed-date="2009-09-21T17:07:18.969255Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/dialog/fck_scayt"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="4268"
+   name="scayt_dialog.css"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2009-09-21T17:07:18.969255Z"
+   checksum="06966a1385a0e7b7953b45315690306d"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+</wc-entries>

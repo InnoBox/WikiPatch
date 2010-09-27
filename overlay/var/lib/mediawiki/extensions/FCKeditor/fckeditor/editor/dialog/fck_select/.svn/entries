@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/dialog/fck_select"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="fck_select.js"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="e06d644956664e59b6f5f2c65bd52224"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+</wc-entries>

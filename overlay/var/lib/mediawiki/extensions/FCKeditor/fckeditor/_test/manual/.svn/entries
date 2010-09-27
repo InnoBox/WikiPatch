@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/manual"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   name="fcktoolbarbuttonui"
+   kind="dir"/>
+<entry
+   name="fckxhtml"
+   kind="dir"/>
+<entry
+   name="behaviors"
+   kind="dir"/>
+<entry
+   name="fckpanel"
+   kind="dir"/>
+<entry
+   name="fckdialog"
+   kind="dir"/>
+<entry
+   name="fckbrowserinfo"
+   kind="dir"/>
+<entry
+   name="fckdomtools"
+   kind="dir"/>
+<entry
+   name="fckspecialcombo"
+   kind="dir"/>
+<entry
+   name="fckstyle"
+   kind="dir"/>
+<entry
+   name="fcktools"
+   kind="dir"/>
+<entry
+   name="fcktoolbar"
+   kind="dir"/>
+<entry
+   name="_common"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="default.html"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="1aad3142af751f8dddf6fd2d44c95e64"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   name="fcktoolbarfontsizecombo"
+   kind="dir"/>
+<entry
+   name="fckdomrangeiterator"
+   kind="dir"/>
+<entry
+   name="fcklisthandler"
+   kind="dir"/>
+<entry
+   name="fckcontextmenu"
+   kind="dir"/>
+<entry
+   name="fckeditingarea"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="testslist.html"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="09a0ed68678bc9040862f0dc93925664"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:47.000000Z"/>
+<entry
+   name="fckkeystrokehandler"
+   kind="dir"/>
+<entry
+   name="fcktoolbarpanelbutton"
+   kind="dir"/>
+<entry
+   name="fckmenublock"
+   kind="dir"/>
+<entry
+   name="fckimagepreloader"
+   kind="dir"/>
+<entry
+   name="fckeditorapi"
+   kind="dir"/>
+<entry
+   name="fckenterkey"
+   kind="dir"/>
+</wc-entries>

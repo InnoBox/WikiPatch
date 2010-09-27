@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_dev/browserbugs/safari"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="370"
+   name="paste.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2007-06-12T11:22:03.724700Z"
+   checksum="61b42f33fa48eff31e213a8a32713787"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   name="iframepath"
+   kind="dir"/>
+<entry
+   committed-rev="51"
+   name="nbsp_innerHTML.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2006-12-23T14:53:07.274604Z"
+   checksum="3c4b950129865cc92afe3faad704a59b"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   name="loadscript2"
+   kind="dir"/>
+<entry
+   name="iframeblur"
+   kind="dir"/>
+<entry
+   committed-rev="916"
+   name="hr_caret.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2007-09-29T15:59:53.264660Z"
+   checksum="bfa3f6bdea134e997a33c97ea9342f38"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:41.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="1462_reduced.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="3cfb3c89e369653bc92a3f82ebe08231"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:41.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="nbsp_removeformat.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="77975eaccaa13d4758ce6d383ca5ee5e"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:41.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="hr_undefined.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="7f01cbf6f0e212794334552dead88613"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:41.000000Z"/>
+<entry
+   committed-rev="132"
+   name="row_display.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="6a7d80275999515b0f0364f176907d6e"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:41.000000Z"/>
+<entry
+   committed-rev="196"
+   name="createContextualFragment.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2007-03-08T10:59:46.016024Z"
+   checksum="d240c33d39e3a9d10c571ba46e38a09a"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:41.000000Z"/>
+<entry
+   committed-rev="132"
+   name="table-layout-fixed.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="f05bf566448823930a43da9069796cfe"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:41.000000Z"/>
+<entry
+   name="iframefocus"
+   kind="dir"/>
+<entry
+   name="loadscript"
+   kind="dir"/>
+<entry
+   committed-rev="910"
+   name="events_designmode.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2007-09-29T10:55:14.668028Z"
+   checksum="2ebf639a87cb7d085d3a346b5731ccc4"
+   last-author="alfonsoml"
+   kind="file"
+   prop-time="2010-09-27T21:58:41.000000Z"/>
+<entry
+   committed-rev="16"
+   name="iframe100percent.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2006-12-07T13:26:15.824036Z"
+   checksum="2f9af0b0861a4732c33432d1813adafb"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:41.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="1462_2_reduced.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="dbbc9e33db065e9b7254cd847b903505"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:41.000000Z"/>
+<entry
+   committed-rev="203"
+   name="input_hidden.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2007-03-10T13:15:21.570300Z"
+   checksum="8fa2ef244e41ec60cc7c8175a0d71833"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:41.000000Z"/>
+<entry
+   name="window_eval"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/plugins/placeholder"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   name="lang"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="placeholder.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="090274dbcc2f5a50ea1086d948ca85ab"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck_placeholder.html"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="521def4db71c352ca3e55b20c1efc3fd"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckplugin.js"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f89e35de40c9f5edeb0818a58a23ae5d"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+</wc-entries>

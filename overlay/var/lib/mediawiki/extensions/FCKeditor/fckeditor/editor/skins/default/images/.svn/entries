@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1398"
+   name=""
+   committed-date="2008-01-24T03:47:11.995125Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/skins/default/images"
+   last-author="martinkou"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="3"
+   name="toolbar.start.gif"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="7ed13749e9da48abea49e9b22543120b"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.expand.gif"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="f93ba24dfb635b29420f1604d7eaf861"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.separator.gif"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="ea7f3776b57186a20d18af090fd7de53"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.collapse.gif"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="99e0a3749c74b70c5286306cc0fe4fbf"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="1398"
+   name="dialog.sides.png"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2008-01-24T03:47:11.995125Z"
+   checksum="0de8d3f444ad57c6afbc6a624b0c61ca"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="1398"
+   name="dialog.sides.rtl.png"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2008-01-24T03:47:11.995125Z"
+   checksum="e196c7bb02d6f68a3b7c912e9d711de9"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="1398"
+   name="dialog.sides.gif"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2008-01-24T03:47:11.995125Z"
+   checksum="120d7ec1d25b985eeaa6b8e33cfe532b"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.buttonarrow.gif"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="f6b2fd6b57149cb40c68e95ba5eee9a5"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.end.gif"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="df3e567d6f16d040326c7a0ea29a4f41"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="1398"
+   name="sprites.png"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2008-01-24T03:47:11.995125Z"
+   checksum="67f4b74937833bf72e39b4640b22a66e"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="1398"
+   name="sprites.gif"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2008-01-24T03:47:11.995125Z"
+   checksum="a29f7f08020a0965fd0eec10aba2be12"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.arrowright.gif"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="cfa64a53737d552242fb39576da6856d"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+</wc-entries>

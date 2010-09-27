@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/plugins/placeholder/lang"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="es.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7729417192fe50b0c00163957f134c7b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fr.js"
+   text-time="2010-09-27T21:58:31.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="a283d4422338e55dac99de29d17264d9"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="de.js"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="8329e28ef539a5922e3f20ffd5926e45"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="pl.js"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="6072c4c4d495bc6b086e1fd0dd81af81"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="it.js"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="0c70e59b50bad27ac5940c4133169e2f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="en.js"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d457adc1b36c960e06180e6dd44678f1"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:31.000000Z"/>
+</wc-entries>

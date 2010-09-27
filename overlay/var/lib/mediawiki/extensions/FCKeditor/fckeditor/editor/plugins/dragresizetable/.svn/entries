@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2911"
+   name=""
+   committed-date="2009-01-15T15:47:20.571677Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/plugins/dragresizetable"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="2911"
+   name="fckplugin.js"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2009-01-15T15:47:20.571677Z"
+   checksum="82768292f6a8f07f011abf3be737432e"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+</wc-entries>

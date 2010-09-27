@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/_source/internals"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="fckplugins.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="456ac5e67a2712e20f854884453084bd"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckscayt.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="e24c2e6716bcc3c0c4004942383b74c4"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckselection.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="0c4363784304e34675b979d8682f364d"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckdebug.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="10cf3d8b8b9afa71570c79b6558b78d2"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck_ie.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b80db354cc9f4b8da570b3dee726096f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckxhtml.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b282c989204c648a9c74feae276bcc8d"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckselection_gecko.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="cae30929312eb7d0fcd8c0babf5da411"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckcodeformatter.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="c8762bf293bf4b7839e6f9f3bac7642c"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckdialog.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="c777cf4cda9b1b6fefa7d172545d22e6"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcktools.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="8ecd940f883f251066f86c7be3dfa8c7"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckcommands.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="3d3378828389ad418930571a12bcb44b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckxhtmlentities.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="06a9adc753b5588b50565ecaea33093e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcktablehandler_ie.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="3b769a42b9b3c974c69d0c7bff2e24dd"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckxhtml_gecko.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="ab8dd72eedcd75501242590c2c9fb8f1"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcktoolbaritems.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="21992b26df89d7f17f05833b3319ac0e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckdebug_empty.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="579ccdc35cbd13b47d9907e85a68cf77"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckconfig.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f709863290654237cef59dc1faafb209"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcktools_gecko.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d3eaa044a6ee09bf6e26d733eb630060"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcklisthandler.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="73491c717715847da6f0036aa25f9806"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckxhtml_ie.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="bc5a4d47070c9fe6ff50330886f0e380"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcktools_ie.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="33b59ea5a060d5e96ec7238110f20d27"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="bedf693368b03ed358dd3f6ff0adc53c"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckstyles.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="ac17c57f53088c5512f753bb5d48dd9f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcktablehandler.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="aa3c8cd51085f2dc705f5b8b9f122684"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcklistslib.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="ae880d6eab2741f31c6e581b0d88a658"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck_gecko.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="9014bad7264bdb74d65b4bf42de63f15"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcktablehandler_gecko.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="0968ce4b5d9a14e0c4f3720ce347b92b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckbrowserinfo.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="561499eeb5afbe228e9950c117c278a0"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckdomtools.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="29fdd9c0b44c1286d393c3110eb6ea89"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckregexlib.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="bf66a5872e5ad15790c97ed7e688cacb"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:27.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckselection_ie.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="c2bae616bffa3d0d48afc7337b300400"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:27.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckundo.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="edb402c1fe91664b970feff289ce8d37"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:27.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckurlparams.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="bc4de409efe8fb15e4acc1bd9c4a6549"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:27.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck_contextmenu.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5b33586f711b8e5153164c2388cd8c7d"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:27.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcktoolbarset.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b5645bb92fecfea7710878a13ed8fec3"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:27.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckdocumentprocessor.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7576f02f47b7f34be692abeefbac8489"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:27.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcklanguagemanager.js"
+   text-time="2010-09-27T21:58:27.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="338b464646fd0c09b615e30b3211cf7b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:27.000000Z"/>
+</wc-entries>

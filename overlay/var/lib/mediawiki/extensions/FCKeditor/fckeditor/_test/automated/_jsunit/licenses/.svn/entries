@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/automated/_jsunit/licenses"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="48"
+   name="gpl-2.txt"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="fdafc691aa5fb7f8e2a9e9521fef771b"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="mpl-tri-license-c.txt"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="521097fbe8045d8280c3021b515b7f77"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="MPL-1.1.txt"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="8818fc6494f17368c3d8d4533ce72bcb"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="Jetty_license.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="9400a4c284f8acac99f3c8c3307ef4e5"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="mpl-tri-license-html.txt"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="569a9caf2e54a99eb86c0155de704822"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="JDOM_license.txt"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="5caf0d9356caac12612b29c42beb2743"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="index.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="8491a5c1f0982732f2162bc717f01458"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="lgpl-2.1.txt"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="3ddb0c71aa19dc6cd58984db4b042517"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+</wc-entries>

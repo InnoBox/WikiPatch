@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="220"
+   name=""
+   committed-date="2007-03-20T10:42:56.632190Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/filemanager/browser/default/images"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="3"
+   name="Folder.gif"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="08c5276ccec1e43cc5f3c6d0be5d2b8b"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:34.000000Z"/>
+<entry
+   committed-rev="3"
+   name="FolderOpened32.gif"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="1584da24e3b81672847ec8c1d5ff9dba"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:34.000000Z"/>
+<entry
+   committed-rev="3"
+   name="spacer.gif"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="325472601571f31e1bf00674c368d335"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:34.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Folder32.gif"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="07bf5a3e8fd59d6068732731d3099cd9"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:34.000000Z"/>
+<entry
+   committed-rev="3"
+   name="FolderUp.gif"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="191d2a2463a0166ac3be558bea018c72"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:34.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ButtonArrow.gif"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="207173de248eeffe2f5137572e25a5f6"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:34.000000Z"/>
+<entry
+   committed-rev="3"
+   name="FolderOpened.gif"
+   text-time="2010-09-27T21:58:35.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="cef0cd9df5fe27c9db45d897ab9690ce"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:34.000000Z"/>
+<entry
+   name="icons"
+   kind="dir"/>
+</wc-entries>

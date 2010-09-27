@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1825"
+   name=""
+   committed-date="2008-03-27T22:25:00.554717Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/automated/_jsunit"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   name="app"
+   kind="dir"/>
+<entry
+   committed-rev="48"
+   name="logging.properties"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="6683b6d267c7eaff8e65f1859b88d8c8"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   name="tests"
+   kind="dir"/>
+<entry
+   committed-rev="1564"
+   name="index.jsp"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="ea62dc56c0a5ffdea7482d2582c6e89f"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   name="logs"
+   kind="dir"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   name="licenses"
+   kind="dir"/>
+<entry
+   committed-rev="1564"
+   name="changelog.txt"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="8bfb1454f41e528d6fa293e12449cba3"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="jsunit.properties.sample"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="5a56b9fca083db4f655d174559ef0cc0"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="1564"
+   name="readme.txt"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="291cd619b48e7c6c18032b1e0353b6f0"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="testRunner.html"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="ff52667c23b9775e2d4bb8ce2f469613"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="48"
+   name="build.xml"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="528e1a72154601485d336fa4123df380"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+</wc-entries>

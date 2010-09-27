@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2006-11-29T13:14:22.390515Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/dialog/fck_template/images"
+   last-author="FredCK"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="3"
+   name="template1.gif"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="fc667c4366fe133c30ab122fe2ee7f20"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   committed-rev="3"
+   name="template2.gif"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="8a4d45166ebeef73e222270a8113d66f"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   committed-rev="3"
+   name="template3.gif"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="b8650f06582ac88ece68948bac1bf734"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+</wc-entries>

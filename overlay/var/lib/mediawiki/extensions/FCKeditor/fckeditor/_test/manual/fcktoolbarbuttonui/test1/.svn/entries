@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2006-11-29T13:14:22.390515Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/manual/fcktoolbarbuttonui/test1"
+   last-author="FredCK"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="3"
+   name="spacer.gif"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="df3e567d6f16d040326c7a0ea29a4f41"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="strip.gif"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="255dcffa0a758da6633cf67d6b6e3cb6"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="smiley.gif"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="39ee83ac9e749d8f6caaa2c5557b6d6d"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+</wc-entries>

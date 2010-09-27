@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1592"
+   name=""
+   committed-date="2008-02-22T13:55:43.208236Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_samples/adobeair/icons"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="1592"
+   name="32.png"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2008-02-22T13:55:43.208236Z"
+   checksum="c41fe0680e41a53fb2b8655f9a34985a"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="1592"
+   name="16.png"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2008-02-22T13:55:43.208236Z"
+   checksum="db79bc8a51bc926f6a5460f5717b2dde"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="1592"
+   name="128.png"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2008-02-22T13:55:43.208236Z"
+   checksum="aaaa235f7573783942c6788369c6e04c"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="1592"
+   name="48.png"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2008-02-22T13:55:43.208236Z"
+   checksum="227992145aa8f7a739513693dbb4c670"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+</wc-entries>

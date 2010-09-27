@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/automated/_jsunit/tests"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="48"
+   name="jsUnitOnLoadTests.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="ee8dc20d645fb5a05d9ed596700b41a4"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="jsUnitMockTimeoutTest.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="a5498183293dd4b2a4e16b52977b1975"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="jsUnitTestSetUpPages.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="a3cd936f7b1c1b00cb320d4d5435c3dc"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="jsUnitRestoredHTMLDivTests.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="1c17cae57ab4baad9291cffb2586e627"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="jsUnitTestLoadStaff.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="545ff9936a9259483405faf2dac5571a"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="jsUnitFrameworkUtilityTests.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="c6679fb73e3393fc979d667325689bb2"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="jsUnitUtilityTests.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="b21cb71d990b7644214a5574d0797ef1"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="jsUnitVersionCheckTests.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="3f322074e77bfa79f2c8b93559e80b23"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="jsUnitSetUpTearDownTests.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="e7cedf348a05f93e748d291a2cd966eb"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   name="data"
+   kind="dir"/>
+<entry
+   committed-rev="48"
+   name="jsUnitTestLoadData.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="1b64235c8b9e4f840f680e53454f30d7"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="jsUnitTestSuite.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="1391b9e22d6e978b0f09b833260abb40"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="80"
+   name="jsUnitAssertionTests.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2007-01-07T18:35:36.859133Z"
+   checksum="40147452effd5b381390327a51aedaad"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="jsUnitTestSetUpPagesSuite.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="fa10bac81d07371b82b9832ef35f30dd"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+</wc-entries>

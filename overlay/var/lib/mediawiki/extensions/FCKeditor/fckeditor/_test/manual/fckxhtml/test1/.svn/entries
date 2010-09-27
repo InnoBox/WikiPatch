@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/manual/fckxhtml/test1"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   name="w3c_xhtml_files"
+   kind="dir"/>
+<entry
+   committed-rev="1564"
+   name="w3c_xhtml.html"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="4fcfd42915c0d94c000e910e157b6661"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+</wc-entries>

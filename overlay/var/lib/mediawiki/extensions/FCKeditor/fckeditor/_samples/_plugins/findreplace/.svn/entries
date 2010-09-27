@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_samples/_plugins/findreplace"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="3"
+   name="replace.gif"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="5a44bad507eca9840c8b1f2c55760166"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   name="lang"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="find.html"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="e3ceb2d10a9f3382591161c1620a582a"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="3"
+   name="find.gif"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="2aac36234207f564c64f01091d3deb72"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckplugin.js"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="6eb44d82f64cd19796dae17442bb331a"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="replace.html"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7eab83243feb652b07b304835a932081"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+</wc-entries>

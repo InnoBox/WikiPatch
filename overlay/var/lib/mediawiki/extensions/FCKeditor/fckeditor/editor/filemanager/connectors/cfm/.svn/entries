@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/filemanager/connectors/cfm"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="cf_upload.cfm"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="e51420bc42ff6e1dfc0ca202c11c663b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="ImageObject.cfc"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="f83f8772053987d20a214bbcb92e588c"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="cf_io.cfm"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b38b8acea33aa7417c305f35d6335292"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="cf5_upload.cfm"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="db2a7e620ae05b72dcb5f3480359d1d7"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="cf_connector.cfm"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="779a8f075131311c152a5bcd8c026c7f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="cf_basexml.cfm"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7e4329baea16ace5eafb0ab53dc6e0e9"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="upload.cfm"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="4d58c109db0afcc70cb360bce663680e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="cf_util.cfm"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f7b4ad3969607b2e8f203beea17fbda3"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="config.cfm"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="65637bc72fd22057dd51488c409e34c2"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="cf5_connector.cfm"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f46f1637952344e2b88474e462f0c69f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="image.cfc"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="4fa3c61e3936433f441a63ff1d0665d3"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="cf_commands.cfm"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="bbc558412a2d2d0cc848621a516baf43"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="connector.cfm"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f1a61ede5711760075f766f816745fd5"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+</wc-entries>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48"
+   name=""
+   committed-date="2006-12-15T14:09:17.884099Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/automated/_jsunit/bin/unix"
+   last-author="FredCK"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="48"
+   name="start-firefox.sh"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="e1830515294ea84e9df43c58b2e8c6ff"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="48"
+   name="stop-firefox.sh"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="920eda12482e4bf9013bde2a8bb48830"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+</wc-entries>

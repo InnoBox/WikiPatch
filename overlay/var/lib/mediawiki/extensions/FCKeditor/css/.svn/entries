@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="56060"
+   name=""
+   committed-date="2009-09-08T19:28:56.788130Z"
+   url="http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/FCKeditor/css"
+   last-author="ialex"
+   kind="dir"
+   uuid="dd0e9695-b195-4be7-bd10-2dea1a65a6b6"
+   revision="73827"/>
+<entry
+   committed-rev="56060"
+   name="user.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="ab979b526ea4febf3207d52f1e6325c2"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="required.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="d6b497ddbf17b17e3d646e7378ea62a9"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="audio.png"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="242070aa486c8c317bb435238a4373c3"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="wiki.png"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="adf680acfd73ad16c74e261894f32b9d"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="headbg.jpg"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="78766da07ddd6856e876fec76fdbbfd7"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="video.png"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="5afc0ee6bfc76d704b0b25fa8ab12d99"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="file_icon.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="44582b491ee0abf23e250aa68ddec8e7"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="bullet.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="119070a1502443a3d5796ef15a9c5e5c"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="mail_icon.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="265e5d8bb700c8c344312a98e7850d60"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="51207"
+   name="fckeditor-rtl.css"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="570bad488c44f9cf4e40797f21f2dfa7"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="55274"
+   name="fckeditor.css"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-08-18T21:22:59.778454Z"
+   checksum="5f6bde7cc96cec20693f10c25fe27225"
+   last-author="simetrical"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="document.png"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="f6b39b350ab4b2dd6d6efa72fc1c93e3"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="magnify-clip.png"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="472c7708d8369780b9157e1d7bc06b9a"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="lock_icon.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="0b4572a0dd20ec2422b77ddbca3c3295"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="wiki-indexed.png"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="7c20496edcc154b19f09d6214b32ae4b"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="external.png"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="8ea7563eac773be6a466fd8a9866a411"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="news_icon.png"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="00f5b12f05f68baaa5a5d09542aeb80b"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="link_icon.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="b6a7a24983a73f036bab46091219978d"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="discussionitem_icon.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="98d5aa20079adc097eb8b9ba27df3f8a"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+</wc-entries>

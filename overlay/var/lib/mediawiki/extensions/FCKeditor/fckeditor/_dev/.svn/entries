@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_dev"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="lint.sh"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="80542fd07bf6685e8b2b0b33e5956385"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="71"
+   name="lint_report.txt"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2006-12-30T14:29:18.795511Z"
+   checksum="057da60c2c72c319b631dd3c4adf3d0c"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="domain_fix_template.js"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="cc8384fd56c2292f8f9b81bd48c763b7"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckreleaser.xml"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="49b13c7fa692276826cd93a503f95d46"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="css_compression.txt"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="c00728acbe658d9924a08819e525dac2"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="_getopt.php"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="d9539f7bcf69b10376d075742ca38365"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="update_lang.bat"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="962ddc13224281acfe01e9b0ca142150"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="4268"
+   name="lint.mac.conf"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2009-09-21T17:07:18.969255Z"
+   checksum="3bd3ddd0a3233b49aab5d8de76b5c306"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="4268"
+   name="lint.conf"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2009-09-21T17:07:18.969255Z"
+   checksum="678d46f5a61f46715ece6218b2d775a5"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fixlineends.php"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="bc755c52bc8bb9a43ba01ba757cc8d4f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="php_bom_finder.php"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="fd805852fa45fee27071a84b0c38f37a"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   name="releaser"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="build_release.bat"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="06d3bfc59c88d1469c27f1a786230e2b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:42.000000Z"/>
+<entry
+   name="browserbugs"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="lint_report.bat"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="4a02f81ac9ecf356aec51f35fc166df1"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:42.000000Z"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="lint.bat"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="a1c9e8e359f26ed87f6d6202ada49f26"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fixlineends.bat"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b8558d27c3f392b5869c79b2602ce836"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="1561"
+   name="PEAR.php"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2008-02-19T10:57:48.418574Z"
+   checksum="a64ef845864afb197a48d390473a1ac9"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="svn_update.bat"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="8128a807f4e8f4187eb2497c24660a92"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="lint_report.command"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b3b6086fd9d45e3b65a039438b5c1208"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+</wc-entries>

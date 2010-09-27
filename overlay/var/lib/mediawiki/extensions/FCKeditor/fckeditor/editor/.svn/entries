@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   name="_source"
+   kind="dir"/>
+<entry
+   name="dialog"
+   kind="dir"/>
+<entry
+   name="lang"
+   kind="dir"/>
+<entry
+   name="plugins"
+   kind="dir"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="fckdialog.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d4dcfb85b940b7a250eb8645ccb39348"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   name="skins"
+   kind="dir"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   name="filemanager"
+   kind="dir"/>
+<entry
+   name="dtd"
+   kind="dir"/>
+<entry
+   name="js"
+   kind="dir"/>
+<entry
+   name="wsc"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="fckdebug.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="46f01df3c728d55443d886820a5be519"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="cd0070e17678574ceeb718de10e69641"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+</wc-entries>

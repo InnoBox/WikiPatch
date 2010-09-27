@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="56060"
+   name=""
+   committed-date="2009-09-08T19:28:56.788130Z"
+   url="http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/FCKeditor/plugins/mediawiki/images"
+   last-author="ialex"
+   kind="dir"
+   uuid="dd0e9695-b195-4be7-bd10-2dea1a65a6b6"
+   revision="73827"/>
+<entry
+   committed-rev="51207"
+   name="icon_html.gif"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="f1440ace75777fc1769fe456f2ec4bcc"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="tb_icon_special.gif"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="2e59c955aa46182bf5ae373b7d1278d5"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="icon_template.gif"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="009b6957b40b1ccd77ff596dbc5a01ca"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="icon_ref.gif"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="9c9d31659c1915c2cb0c7ab19a04aa5e"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="tb_icon_math.gif"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="d853afcb417b73fef1b0a54296d1e8a2"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="50666"
+   name="tb_signature.gif"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-16T19:08:30.887708Z"
+   checksum="382bbdca7c84e39aab1d7b09667f5097"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="icon_special.gif"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="37cf5131062dbca50160033110fbf365"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="icon_noinclude.gif"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="fe7f3ab389d5f93bf28866acd3a8cce8"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="icon_references.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="e31761019868be33ede4f2f247761dba"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="icon_onlyinclude.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="7e15dad9b8ae355b34847d90f6c7c43d"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="icon_includeonly.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="c8d9baf7bb6b071d92809e8c9e42556e"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="50666"
+   name="tb_icon_source.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-05-16T19:08:30.887708Z"
+   checksum="ec73b292e8311e960e78f705ed94debf"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="51207"
+   name="icon_math.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="d430a02aac0ad0819776707f105548a3"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="icon_gallery.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="13a24c1c99de075a6cfa1a889b314471"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="icon_nowiki.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="5d8b9440614eb2c63e9aaeb986ec7da9"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="51207"
+   name="icon_source.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="04021e6b0145643bf088020069301535"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="tb_icon_template.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="695ca1523fe20d483d18db85a63733df"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="56060"
+   name="tb_icon_ref.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-09-08T19:28:56.788130Z"
+   checksum="60819dfb91541b19e1747627bcede2ae"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="51207"
+   name="icon_signature.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="ae0070ecf9d2947648295b40dd5dcc7e"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="51207"
+   name="tb_icon_category.gif"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="aa4bec3bb1dcb772deb55e2dc701c2d9"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+</wc-entries>

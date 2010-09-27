@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_samples/asp"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="sample01.asp"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="8c8bb2c8f4dcd1ece0fa256ca500443f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample02.asp"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="4799f0401a265b177f10c2a117db88d6"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample03.asp"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="84201489eca698c20a7984199a45bf2c"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample04.asp"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="2e7306b455a62fda540c5b357c9a6e88"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sampleposteddata.asp"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="dd7a78dd927bb1a9fb7b48afb3820bda"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+</wc-entries>

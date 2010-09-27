@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_samples/adobeair"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   prop-time="2010-09-27T21:58:39.000000Z"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="package.bat"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="c27c43547164eca49779182cd9151d84"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="application.xml"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5dc447bfeb5f77132cc02e3f925794ad"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample01.html"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="64e5f8cd36c0f5dabf786ce62b534e1a"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="run.bat"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="e28cd832aef9eeddb12ccf66da0ff0dd"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   name="icons"
+   kind="dir"/>
+<entry
+   committed-rev="1592"
+   name="sample01_cert.pfx"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2008-02-22T13:55:43.208236Z"
+   checksum="5a03811dfa53394af715174c3ee01ec7"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+</wc-entries>

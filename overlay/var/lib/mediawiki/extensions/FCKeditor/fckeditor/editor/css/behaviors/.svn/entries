@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="202"
+   name=""
+   committed-date="2007-03-10T13:14:31.245737Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/css/behaviors"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="3"
+   name="disablehandles.htc"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="6d4a9315ac5181b5357db21f0c5f04fe"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+<entry
+   committed-rev="3"
+   name="showtableborders.htc"
+   text-time="2010-09-27T21:58:33.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="ff440605e399b371145d1883a9912cf3"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:33.000000Z"/>
+</wc-entries>

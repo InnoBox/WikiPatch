@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/filemanager/connectors/php"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="connector.php"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="73f32ed75348d95f37cf914fd887d843"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="basexml.php"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f1c366f498b63bd900103936a59f8a3c"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="phpcompat.php"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="7763888b2073fa72a8c5b8a3e65b9089"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="util.php"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7021268a0ec1ecb17aeff8b8e7e0acd7"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="commands.php"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="02e036d69437e9664d239076e1a118c0"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="upload.php"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="fcc1b5ecd93599c6d6adfacd34326680"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="config.php"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5ded2d121b141ed70eb3fa743e0cea10"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="io.php"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="87ec76db5b1dff3dc67208efe3029f57"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+</wc-entries>

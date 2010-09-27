@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_samples/lasso"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="sample01.lasso"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="df550651cb78f2571a7f27cee6b2eaa9"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample02.lasso"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="0905d01b4ddac5478eab5101b2107c57"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample03.lasso"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="fb36f2f81885b8349e76675f28c508f2"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample04.lasso"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5d8159a1c6d334632fa131bc671f762e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sampleposteddata.lasso"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="fe5b23d01bb66dfd75a9a2f148f19f53"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+</wc-entries>

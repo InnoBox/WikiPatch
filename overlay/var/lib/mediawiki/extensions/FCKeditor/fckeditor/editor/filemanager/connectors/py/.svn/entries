@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/filemanager/connectors/py"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="wsgi.py"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b05ea2273c6ce4ca2ce5f4b6218e3722"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="connector.py"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="2680e4c8b036532ee2d631cd2f560405"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="zope.py"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="8f7e9b725cfdbed02d61613b0b9639ef"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckconnector.py"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="76e84c505d5acf5dd7d2e3ea4286d0ad"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckutil.py"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="88d0e02fb9c03dc9cf2604c1b434db11"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckoutput.py"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="2cf19c7b0a775c2831dc186dfc3e61fd"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="htaccess.txt"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="23f5e8fcd97109cbb088119eafef768e"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="upload.py"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5475a2ff1661741aa9b22b238df41f4f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="config.py"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="ec9ef33419e9285445e9af6996093de4"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckcommands.py"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f0e653b841f1d005310f0df7c753aa86"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+</wc-entries>

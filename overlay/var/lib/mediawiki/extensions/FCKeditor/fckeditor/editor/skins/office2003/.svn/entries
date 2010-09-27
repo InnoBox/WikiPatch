@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/skins/office2003"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="fck_dialog_ie6.js"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="a304f23426b810a7cb39e244dda4ad4b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck_editor.css"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="43d496c5c878529bd918cb08674f60b3"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="2288"
+   name="fck_strip.gif"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2008-07-25T10:23:18.586746Z"
+   checksum="6474795db7e469a110a38cc8546bb962"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck_dialog.css"
+   text-time="2010-09-27T21:58:32.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="1a6a3b30381bee54a4f91d1eca1f0d92"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:32.000000Z"/>
+</wc-entries>

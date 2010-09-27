@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_samples/html/assets"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="sample14.styles.css"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="47866e538a4e1a231208e71164f3fb3c"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample11_frame.html"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="84f26c29f0139e2d3bffb1bd46b6ddcf"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="2288"
+   name="swfobject.js"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2008-07-25T10:23:18.586746Z"
+   checksum="0b386d6d9ca3c53ce5e1d96706f18813"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample14.config.js"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7296bd4de94b50990d655e2659888a4e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample06.config.js"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="0ce48a02f7c1888f1c3991c94f3252bf"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample15.config.js"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="81e4f90e1a2179bcbb7441559a90bb22"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="2288"
+   name="sample16.swf"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2008-07-25T10:23:18.586746Z"
+   checksum="507eff7b7c06c78d1b8f88406ea9a510"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample16.config.js"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="afe43e7091301578bb6c20cc03b953cd"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="2288"
+   name="sample16.fla"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2008-07-25T10:23:18.586746Z"
+   checksum="86553d897c3508cd20201e95125972a8"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/filemanager/connectors/lasso"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="upload.lasso"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d13437efad95a866d4f21c903564c6d5"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="config.lasso"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="c5500596f113f2b8fc2b333b29b0b1f9"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="connector.lasso"
+   text-time="2010-09-27T21:58:36.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="924e666d19e929943c0126b49a1d8031"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+</wc-entries>

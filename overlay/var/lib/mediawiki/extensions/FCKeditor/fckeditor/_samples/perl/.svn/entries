@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_samples/perl"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="sample01.cgi"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="37f8920436183f15cdbb05297257c336"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample02.cgi"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="a9050f40ed86dd6ae582fdd44f19e0e1"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample03.cgi"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="4603c70cf92e51ff62be0762128d8bf9"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample04.cgi"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="20f6cd399b3d0dbc6e424e9b5f29ec09"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sampleposteddata.cgi"
+   text-time="2010-09-27T21:58:38.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="2084624860b29aef97a66d2217072a54"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+</wc-entries>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/manual/fckdialog"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="test1.html"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="273f9ef920709a6a6d87b8c5292e89fb"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="test2.html"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="9875fa5352021d50725af910d5ba6133"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="test1.css"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="1bce35b20ef6833fd834db26fa894c72"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="1398"
+   name="flash.swf"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2008-01-24T03:47:11.995125Z"
+   checksum="0691936d90948731beb7a6f38eb1b851"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+</wc-entries>

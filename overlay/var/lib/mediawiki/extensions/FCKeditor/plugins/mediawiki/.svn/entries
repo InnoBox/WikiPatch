@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="59758"
+   name=""
+   committed-date="2009-12-05T15:03:20.329334Z"
+   url="http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/FCKeditor/plugins/mediawiki"
+   last-author="maxsem"
+   kind="dir"
+   uuid="dd0e9695-b195-4be7-bd10-2dea1a65a6b6"
+   prop-time="2010-09-27T21:58:25.000000Z"
+   revision="73827"/>
+<entry
+   name="lang"
+   kind="dir"/>
+<entry
+   name="dialogs"
+   kind="dir"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="59758"
+   name="fckplugin.js"
+   text-time="2010-09-27T21:58:25.000000Z"
+   committed-date="2009-12-05T15:03:20.329334Z"
+   checksum="f82bfa9d0f5e2b512806a0b7e1b315ed"
+   last-author="maxsem"
+   kind="file"
+   prop-time="2010-09-27T21:58:25.000000Z"/>
+</wc-entries>

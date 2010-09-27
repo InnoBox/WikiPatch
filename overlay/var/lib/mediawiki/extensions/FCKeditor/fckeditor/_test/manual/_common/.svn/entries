@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/manual/_common"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="3"
+   name="arrowLTR.gif"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="91d8e121b6fddb9d69e8a2c23b9b988c"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="3"
+   name="arrowRTL.gif"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="840651429b858558c636ff5f26a764ed"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="3"
+   name="check.gif"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="fce7c811d7adec70ce79ee7c4185ec47"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="3"
+   name="spacer.gif"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="df3e567d6f16d040326c7a0ea29a4f41"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="3"
+   name="toolbar.start.gif"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="7ed13749e9da48abea49e9b22543120b"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="3"
+   name="office.end.gif"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="5df789b442191b2420341c400f3f4bec"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="3"
+   name="strip.gif"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="255dcffa0a758da6633cf67d6b6e3cb6"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="3"
+   name="arrowdown.gif"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="f6b2fd6b57149cb40c68e95ba5eee9a5"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="3"
+   name="smiley.gif"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="39ee83ac9e749d8f6caaa2c5557b6d6d"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="manual_test.js"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="b8c802dc6e713fca45cc12589091f285"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="3"
+   name="office.start.gif"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="28a983baf03c66cf7b9ec7268d7cd8a6"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+<entry
+   committed-rev="132"
+   name="testskin.css"
+   text-time="2010-09-27T21:58:46.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="f55e0049b98c0dedfebc979133974423"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:46.000000Z"/>
+</wc-entries>

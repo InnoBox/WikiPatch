@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/filemanager/connectors"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   name="lasso"
+   kind="dir"/>
+<entry
+   name="perl"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="test.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b13a4868604965947bb636100099900e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   name="asp"
+   kind="dir"/>
+<entry
+   name="cfm"
+   kind="dir"/>
+<entry
+   name="php"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="uploadtest.html"
+   text-time="2010-09-27T21:58:37.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="2aaa869b7d8af66b0d5742443567372f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:36.000000Z"/>
+<entry
+   name="py"
+   kind="dir"/>
+<entry
+   name="aspx"
+   kind="dir"/>
+</wc-entries>

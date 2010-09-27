@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_samples/php"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="sampleposteddata.php"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d7b0735eeeedb829bff0cdd047621b72"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample01.php"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="7f6445650010cd6f8f624c0b82d2f66e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample02.php"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="a4798f855a2d4ee888ceb805174de56f"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample03.php"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="93787422b47fe8f3527c4219d6558814"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample04.php"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="97549364bc8077c79b242ae8613c8720"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+</wc-entries>

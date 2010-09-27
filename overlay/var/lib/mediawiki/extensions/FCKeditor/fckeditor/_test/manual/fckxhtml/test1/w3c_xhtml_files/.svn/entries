@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/manual/fckxhtml/test1/w3c_xhtml_files"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="132"
+   name="xhtml.css"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="4999223183708e256cc9458df1e16f33"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="w3c_home.png"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="577d6787122c52d866c3d66ca63de890"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="wcag1AAA.png"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="ad3fc06f3508659a6c6d168c1b340abd"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="W3C-REC.css"
+   text-time="2010-09-27T21:58:45.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="dc438f58e4baba969d0267fca409d97f"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:45.000000Z"/>
+</wc-entries>

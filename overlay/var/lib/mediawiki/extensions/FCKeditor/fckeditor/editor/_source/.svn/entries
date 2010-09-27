@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/_source"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   name="internals"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="fckeditorapi.js"
+   text-time="2010-09-27T21:58:28.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="1095d0c87ed6068c45d4f7c22bec5f1e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckjscoreextensions.js"
+   text-time="2010-09-27T21:58:28.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="4ff4d0432f429b02019b173f53358e2a"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:27.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckscriptloader.js"
+   text-time="2010-09-27T21:58:28.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="52dd7f72544ec6de46e50eda82789d9b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:27.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckconstants.js"
+   text-time="2010-09-27T21:58:28.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="3e21993982efac4d69a5e43623450e33"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:27.000000Z"/>
+<entry
+   name="commandclasses"
+   kind="dir"/>
+<entry
+   name="classes"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1825"
+   name=""
+   committed-date="2008-03-27T22:25:00.554717Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/dialog/fck_about"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="3"
+   name="logo_fredck.gif"
+   text-time="2010-09-27T21:58:28.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="23e6cd9ae92d48a472c1e5c6f03218aa"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:28.000000Z"/>
+<entry
+   name="sponsors"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="logo_fckeditor.gif"
+   text-time="2010-09-27T21:58:28.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="f36dd545b6973ec5dcaca671e69305fd"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:28.000000Z"/>
+</wc-entries>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/automated/tests"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="fckdataprocessor.html"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="8e0a171d7d2b698c550acd3926736b3d"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckw3crange.html"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="b5c546cb4bd52d05f07d1b39052341a4"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="382"
+   name="img.gif"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2007-06-15T17:03:24.463394Z"
+   checksum="fce7c811d7adec70ce79ee7c4185ec47"
+   last-author="alfonsoml"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckdomrange.html"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="9175962307d1db1aa8f79dfe9423829b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckdomtools.html"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="351b73b8acad555ee06c13dc74be2d01"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcktools.html"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="4c73c027fb6d4d04aef9480cae7db7a4"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="suite.html"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5f6f3dbd67d622fbc757a32424800765"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="tests.js"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="3da376d97ff2ba634501bb3b416e7abf"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+</wc-entries>

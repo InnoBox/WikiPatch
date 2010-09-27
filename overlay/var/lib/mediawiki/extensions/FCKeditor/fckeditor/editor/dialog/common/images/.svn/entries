@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2006-11-29T13:14:22.390515Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/dialog/common/images"
+   last-author="FredCK"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="3"
+   name="locked.gif"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="6e654773bc5b98e521f8524e1832d93a"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   committed-rev="3"
+   name="reset.gif"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="5b0d14a0297015450b4da9d35e249dce"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   committed-rev="3"
+   name="unlocked.gif"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="00e7c8f052295e559d37d1b1cc9d34e4"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+</wc-entries>

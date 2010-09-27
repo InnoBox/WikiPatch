@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_samples/cfm"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="sample01.cfm"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f8390d76b6e5db479eb99d414b196901"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample02.cfm"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="daad1c076edc6397a5d4707b685ad924"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample03.cfm"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="22595c90841192f43a46c61df42b5dc8"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample04.cfm"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d6bb910a8852bfb80c79aa268d53cfae"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample01_mx.cfm"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="6ee3b541cef17987d05e63a193801a36"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample02_mx.cfm"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="8f7584126a9f26fa89841d0c4a5686b8"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample03_mx.cfm"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="41c7785ce5ab92fe818cb1cd2d109691"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample04_mx.cfm"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d203fea02959222cb9bc1e51fb669b8e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sampleposteddata.cfm"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="82405b20e25f41d10f27d46d68c5a16e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+</wc-entries>

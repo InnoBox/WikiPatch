@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="51207"
+   name=""
+   committed-date="2009-05-30T20:02:00.636929Z"
+   url="http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/FCKeditor/plugins/mediawiki/lang"
+   last-author="ialex"
+   kind="dir"
+   uuid="dd0e9695-b195-4be7-bd10-2dea1a65a6b6"
+   revision="73827"/>
+<entry
+   committed-rev="51207"
+   name="sv.js"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="739b328eebd7b13e239cb428c63a04bf"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="51207"
+   name="ko.js"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="8543d8a7efa1f2ba95a648dbe9c77c60"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="50669"
+   name="zh-tw.js"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-16T19:56:25.766518Z"
+   checksum="d8b85b5d3e45b83ab871908a34f602e6"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="51207"
+   name="pl.js"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="91782c74c5fc7cb620f18980a9cf9a6d"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="51207"
+   name="he.js"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="c1f2844d100a6e9b5be9335063948837"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="50669"
+   name="fi.js"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-16T19:56:25.766518Z"
+   checksum="c0bec97963adfec75ea761f794eb5d01"
+   last-author="ashley"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+<entry
+   committed-rev="51207"
+   name="en.js"
+   text-time="2010-09-27T21:58:24.000000Z"
+   committed-date="2009-05-30T20:02:00.636929Z"
+   checksum="7af10e74aedf5b26df4e99bb5cae02fd"
+   last-author="ialex"
+   kind="file"
+   prop-time="2010-09-27T21:58:24.000000Z"/>
+</wc-entries>

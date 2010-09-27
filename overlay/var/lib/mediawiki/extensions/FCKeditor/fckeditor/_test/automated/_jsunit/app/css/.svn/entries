@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/automated/_jsunit/app/css"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="1564"
+   name="jsUnitStyle.css"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="5728fcd9c622beb9289f7a2609b5a3c7"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+<entry
+   committed-rev="132"
+   name="readme"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="22229e75bb779332df6b2e5b99e6c087"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+</wc-entries>

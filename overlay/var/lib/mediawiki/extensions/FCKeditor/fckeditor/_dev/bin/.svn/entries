@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1825"
+   name=""
+   committed-date="2008-03-27T22:25:00.554717Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_dev/bin"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="437"
+   name="jsl"
+   text-time="2010-09-27T21:58:42.000000Z"
+   committed-date="2007-07-11T15:17:19.082361Z"
+   checksum="b1e9db8d9da1492d0c58aec9c16462fd"
+   last-author="alfonsoml"
+   kind="file"
+   prop-time="2010-09-27T21:58:42.000000Z"/>
+<entry
+   committed-rev="70"
+   name="jsl.exe"
+   text-time="2010-09-27T21:58:42.000000Z"
+   committed-date="2006-12-30T10:50:36.049580Z"
+   checksum="f5125b218d5a07fdbc5f39b520c8043d"
+   last-author="alfonsoml"
+   kind="file"
+   prop-time="2010-09-27T21:58:42.000000Z"/>
+<entry
+   committed-rev="1825"
+   name="FCKeditor.LangTools.exe"
+   text-time="2010-09-27T21:58:43.000000Z"
+   committed-date="2008-03-27T22:25:00.554717Z"
+   checksum="f766d89186f78ceca56883b4e66c7626"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:42.000000Z"/>
+</wc-entries>

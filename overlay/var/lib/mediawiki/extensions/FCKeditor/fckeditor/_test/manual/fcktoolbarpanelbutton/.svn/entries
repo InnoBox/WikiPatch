@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="498"
+   name=""
+   committed-date="2007-07-22T23:53:07.456615Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/manual/fcktoolbarpanelbutton"
+   last-author="martinkou"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="498"
+   name="test1.html"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2007-07-22T23:53:07.456615Z"
+   checksum="e10e006bc4760506a5addbc924f316f3"
+   last-author="martinkou"
+   kind="file"
+   prop-time="2010-09-27T21:58:47.000000Z"/>
+</wc-entries>

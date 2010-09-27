@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/dialog/fck_spellerpages/spellerpages"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="1564"
+   name="spellChecker.js"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="fcdc069d0e851dfa24c1e46c83fb3435"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   committed-rev="132"
+   name="controlWindow.js"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="fc4fd36d85c5729fbea6fa39c7d48230"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   committed-rev="132"
+   name="controls.html"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="9000c36f08b7e9d41fd5b002273cfb5a"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   committed-rev="132"
+   name="spellchecker.html"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="8ee0c07dfc3decd5c3ff0a59557dba57"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   committed-rev="3"
+   name="blank.html"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2006-11-29T13:14:22.390515Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   name="server-scripts"
+   kind="dir"/>
+<entry
+   committed-rev="1564"
+   name="spellerStyle.css"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="a687bb3f9d0a2574cb700a19b88419fa"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+<entry
+   committed-rev="132"
+   name="wordWindow.js"
+   text-time="2010-09-27T21:58:29.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="9de38f7188a934800f2ed65f378a087e"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:29.000000Z"/>
+</wc-entries>

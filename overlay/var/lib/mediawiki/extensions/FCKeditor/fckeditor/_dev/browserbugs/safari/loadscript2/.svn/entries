@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_dev/browserbugs/safari/loadscript2"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="132"
+   name="default.html"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2007-02-16T14:42:07.085328Z"
+   checksum="2d1b7819ec32924ab8b31b5f8527dab8"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="test.js"
+   text-time="2010-09-27T21:58:41.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="faa6af1a837891c91a1108df29ba4312"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+</wc-entries>

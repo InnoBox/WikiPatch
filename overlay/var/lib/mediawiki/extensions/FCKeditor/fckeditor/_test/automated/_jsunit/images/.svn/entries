@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48"
+   name=""
+   committed-date="2006-12-15T14:09:17.884099Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/automated/_jsunit/images"
+   last-author="FredCK"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="48"
+   name="logo_jsunit.gif"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="482cb58724d4fe1c90b1cc84693a742b"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="green.gif"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="eaca5b34fdd051710891c7c76831d104"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="powerby-transparent.gif"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="a7958ffb07fcda5b10231534906ba3cc"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="red.gif"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="2c9d508babd3edd17c76881cff45621e"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+</wc-entries>

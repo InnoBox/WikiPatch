@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/editor/dialog/fck_flash"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="fck_flash_preview.html"
+   text-time="2010-09-27T21:58:28.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="53e5dbb72668fcbab9792569a7815ec5"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:28.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck_flash.js"
+   text-time="2010-09-27T21:58:28.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="0c4f171e468ed4b9603b2ea30f034170"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:28.000000Z"/>
+</wc-entries>

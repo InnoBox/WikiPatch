@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_samples/afp"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="sampleposteddata.afp"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="5b1915e1f5d5b1dcd4ed17f2b40ab54e"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fck.afpa.code"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="538a70f6c14d78781628226d7b23ec89"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample01.afp"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="2e326d7819713e599f6f836e51dfcab9"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample02.afp"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d99c015abad4068cfd5f0ce7869903ad"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="fck.afpa"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="86a42c7b395fb59dd28c247feab8571d"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample03.afp"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="e43a2411c5c9b6540846eb269591b4bf"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="sample04.afp"
+   text-time="2010-09-27T21:58:39.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="0bd58f65b0764297ee0e262a3c2fd48d"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+</wc-entries>

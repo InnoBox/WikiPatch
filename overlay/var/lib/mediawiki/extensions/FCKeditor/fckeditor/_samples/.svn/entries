@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_samples"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   name="_plugins"
+   kind="dir"/>
+<entry
+   name="lasso"
+   kind="dir"/>
+<entry
+   name="perl"
+   kind="dir"/>
+<entry
+   name="asp"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="sampleslist.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="9525f143af414119fb8963337f4c1560"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:38.000000Z"/>
+<entry
+   name="html"
+   kind="dir"/>
+<entry
+   name="cfm"
+   kind="dir"/>
+<entry
+   name="adobeair"
+   kind="dir"/>
+<entry
+   name="afp"
+   kind="dir"/>
+<entry
+   name="php"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="default.html"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="82dd1712f7055bfcbacd02fe6cd552af"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:39.000000Z"/>
+<entry
+   name="py"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="sample.css"
+   text-time="2010-09-27T21:58:40.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="eac857ecfbca91e197048071c97cef24"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+</wc-entries>

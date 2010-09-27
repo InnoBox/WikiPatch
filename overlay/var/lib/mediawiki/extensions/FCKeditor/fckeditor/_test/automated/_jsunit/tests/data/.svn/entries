@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1564"
+   name=""
+   committed-date="2008-02-19T13:20:34.565223Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x/_test/automated/_jsunit/tests/data"
+   last-author="fredck"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="48"
+   name="staff.xml"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="12e346c0d841c01da53913fdcfbb6c7d"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="staff.css"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="f35b34491af7c485cd7f0a18fe5ad444"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="48"
+   name="data.html"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2006-12-15T14:09:17.884099Z"
+   checksum="d909451dd0655d9d2a321103bc9a38e4"
+   last-author="FredCK"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+<entry
+   committed-rev="1564"
+   name="staff.dtd"
+   text-time="2010-09-27T21:58:44.000000Z"
+   committed-date="2008-02-19T13:20:34.565223Z"
+   checksum="098a77803e4c6b0510065c446d79522a"
+   last-author="fredck"
+   kind="file"
+   prop-time="2010-09-27T21:58:44.000000Z"/>
+</wc-entries>

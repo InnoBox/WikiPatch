@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5129"
+   name=""
+   committed-date="2010-02-15T15:50:55.990322Z"
+   url="http://svn.fckeditor.net/FCKeditor/branches/versions/2.6.x"
+   last-author="wwalc"
+   kind="dir"
+   uuid="da63caf2-3823-0410-a1e8-d69ccee00dfb"
+   revision="5903"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor.afp"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="9abc27ef7d76f4f3e3568125f782b59b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fcktemplates.xml"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="77c0bdcc272d55d9ccb321ba215c0d59"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="_whatsnew_history.html"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d2b46cdd147ea71949b1c712829ebb34"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor.pl"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="2981c550677dde15c2bcb5056aaf96cc"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor.js"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="c6453768f5077d7d8901cbfdcb70599c"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:26.000000Z"/>
+<entry
+   name="editor"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="fckutils.cfm"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="306456d7d68a0c5cc507879453597e84"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="_upgrade.html"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="11a5f86468ed091847b017a3610af4a5"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor.lasso"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="e14c11f1d4f789b2a7cc66ed670cf3c2"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor_php4.php"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="aa7412d90aea75d51c4d40b9882bee71"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor_php5.php"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="a6f8b9490d293ddaac252a7d1d6b8d51"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor.asp"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="fca84cf21cb817ce06afc3a1852ea2ff"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   name="_testcases"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="license.txt"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="caf6ab0c7363a7c39391de012b103a71"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckpackager.xml"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="41515ff0e9de12fb521e40dffd702e65"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor.php"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="0fa1807038ba89320979232de09ec266"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor.py"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="74f8507d1fe867d976a562163505e258"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="_whatsnew.html"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="f02aedab0b8f95e9c8f2c27a07264956"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:37.000000Z"/>
+<entry
+   name="_samples"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor.cfc"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="1597196eda78b97b1805a3e13da42dc5"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckconfig.js"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="e036aace9f84061a50bc3837d687a0a7"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="fckstyles.xml"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="d760144af84062c39b945faf2bb38f9b"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="5129"
+   name="_documentation.html"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="a552d173a337dcbf3c1ebbc248e02b15"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   committed-rev="5129"
+   name=".htaccess"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="da0e890334a0f67eece79fa838d03628"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:40.000000Z"/>
+<entry
+   name="_dev"
+   kind="dir"/>
+<entry
+   name="_test"
+   kind="dir"/>
+<entry
+   committed-rev="5129"
+   name="fckeditor.cfm"
+   text-time="2010-09-27T21:58:47.000000Z"
+   committed-date="2010-02-15T15:50:55.990322Z"
+   checksum="69ddeb8ad1799b7e93e83adbfe646934"
+   last-author="wwalc"
+   kind="file"
+   prop-time="2010-09-27T21:58:43.000000Z"/>
+</wc-entries>
