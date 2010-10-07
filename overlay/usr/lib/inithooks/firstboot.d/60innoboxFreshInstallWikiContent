@@ -6,6 +6,23 @@
 #    We already developed a system to save and restore the entire wiki. So we will just
 #    use that on first boot to install a default instance of content on the wiki.
 
+
+#    Copyright 2010 InnoBox Devices <code@innoboxdevices.com>
+#    This file is part of InnoBox Wiki Patch.
+#
+#    InnoBox Backup is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU Affero General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    InnoBox Wiki is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU Affero General Public License
+#    along with InnoBox Wiki Patch.  If not, see <http://www.gnu.org/licenses/>.
+
 PREP_FILE = "/usr/share/innobox-wiki/prepareWikiUser.sql" 
 DB_FILE = "/usr/share/innobox-wiki/defaultWikiContent.sql" 
 

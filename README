@@ -1,4 +1,8 @@
-This is an update to the wikipatch to now accomodate TurnkeyLinux Core 10 Lucid. 
+This is Innobox Wiki Patch
 
-The core does not have any LAMP stack at all, so we need to instally PHP, MySQL and mediawiki. 
+It sits on top of Turnkey Linux Core.
+
+This is an update to the old wikipatch to now accomodate TurnkeyLinux Core 10 Lucid. 
+
+The core does not have any LAMP stack at all, so we need to install PHP, MySQL and mediawiki. 
 
